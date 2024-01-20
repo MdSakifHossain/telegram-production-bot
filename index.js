@@ -76,5 +76,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-	console.log(`Its alive on port ${port}`);
+	console.log(`It's alive on port ${port}! ⚡🥴😅🤯🥲🤨😌🤩🤩😘😊😮⚔️🦥😒🥱💤❤️🫂😄🌞👆🧐👾🔥🔥💥💥🌟🌟🚀🚀💎💎🤘🤘🧻🧻🧻🧻🧻🧻🧻🧻🧻
+#FuckingExitingMoment`);
 })
